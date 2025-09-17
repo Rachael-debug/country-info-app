@@ -19,7 +19,7 @@ A mobile-responsive React application that fetches and displays country informat
 
 - React + Vite
 
-- TypeScript (if you used it, otherwise remove)
+- TypeScript
 
 - Shadcn/UI for UI components
 
